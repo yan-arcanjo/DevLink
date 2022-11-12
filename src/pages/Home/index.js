@@ -21,7 +21,7 @@ export default function Home(){
 
                 <section className="link-area">
                     <a href="#">
-                        <p className="link-text">Treinamento fábrica de aplicativos</p>
+                        <p className="link-text">A maior fábrica de aplicativos</p>
                     </a>
                 </section>
             </main>
